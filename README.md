@@ -1,15 +1,15 @@
 # AnomalyDetection
 
-##Step Zero: Prerequisites
+*Step Zero: Prerequisites*
 
-This example assumes
+This project assumes
 
     You have a sbt installed and running.
 
-##Step One:
+*Step One:*
 
-Run in project folder
+    Run in project folder
 `sbt run`
 
-##Result:
+*Result:*
 A csv with random name will be created under `<project_root>/AnomalyOutput/`
