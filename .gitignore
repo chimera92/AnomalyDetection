@@ -1,0 +1,8 @@
+/target
+/worksheets
+.idea
+*.iml
+.DS_Store
+/conf-dev
+derby.log
+metastore_db
