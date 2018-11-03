@@ -12,4 +12,5 @@ This project assumes
 `sbt run`
 
 *Result:*
-A csv with random name will be created under `<project_root>/AnomalyOutput/`
+    
+    A csv with random name will be created under `<project_root>/AnomalyOutput/`
