@@ -1,7 +1,0 @@
-date,anomaly_count,anomalous_timestamps,anomaly_status
-2018-06-13,0,,no anomalies
-2018-06-14,1,2018-06-14 12:15:00,no anomalies
-2018-06-15,0,,no anomalies
-2018-06-16,2,"2018-06-16 12:14:00, 2018-06-16 12:15:00",no anomalies
-2018-06-17,5,"2018-06-17 12:13:00, 2018-06-17 12:14:00, 2018-06-17 12:15:00, 2018-06-17 12:16:00, 2018-06-17 12:17:00",anomaly detected
-2018-06-18,0,,no anomalies
