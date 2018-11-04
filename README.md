@@ -14,7 +14,7 @@ This project assumes
 
 *Step One:*
 
-    Run in project folder
+    Run in project root folder
 `sbt run`
 
 *Result:*
